@@ -67,8 +67,8 @@
 	    </dependency>
 	    
 	    <dependency>
-	<groupId>org.postgresql</groupId>
-	<artifactId>postgresql</artifactId>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
       </dependency> 
 
 	</dependencies>
